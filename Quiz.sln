@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBM.UI", "JBM.UI\JBM.UI.csproj", "{B970282E-ACF1-409A-9F13-748A4AEF4B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBM.BL", "JBM.BL\JBM.BL.csproj", "{A393A8D0-A586-4B00-A253-A01F1838B3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBM.DAL", "JBM.DAL\JBM.DAL.csproj", "{A7FB6920-6A87-4E99-A511-91E553704974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B970282E-ACF1-409A-9F13-748A4AEF4B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B970282E-ACF1-409A-9F13-748A4AEF4B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B970282E-ACF1-409A-9F13-748A4AEF4B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B970282E-ACF1-409A-9F13-748A4AEF4B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A393A8D0-A586-4B00-A253-A01F1838B3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A393A8D0-A586-4B00-A253-A01F1838B3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A393A8D0-A586-4B00-A253-A01F1838B3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A393A8D0-A586-4B00-A253-A01F1838B3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FB6920-6A87-4E99-A511-91E553704974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FB6920-6A87-4E99-A511-91E553704974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FB6920-6A87-4E99-A511-91E553704974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FB6920-6A87-4E99-A511-91E553704974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1794F850-F99B-4642-9847-9F2224A526BC}
+	EndGlobalSection
+EndGlobal
