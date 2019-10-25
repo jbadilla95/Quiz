@@ -50,7 +50,7 @@ namespace JBM.UI
                 v1.telefono = txt_telefono.Text;
                 d.Add(v1);
 
-                //prueba1
+                //prueba233
 
             }
 
